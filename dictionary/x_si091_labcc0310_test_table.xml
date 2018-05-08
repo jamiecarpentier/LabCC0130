@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test Table" max_length="40" name="x_si091_labcc0310_test_table" type="collection">
+        <element label="Test Column" max_length="40" name="test_column" type="string"/>
+    </element>
+</database>
